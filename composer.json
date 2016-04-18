@@ -1,0 +1,14 @@
+{
+    "name": "kasifi/trello-bundle",
+    "require": {
+        "cdaguerre/php-trello-api": "^0.9.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lucas CHERIFI",
+            "email": "lucas@cherifi.info"
+        }
+    ],
+    "minimum-stability": "stable"
+}
